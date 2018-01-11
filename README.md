@@ -1,4 +1,4 @@
-# nt-gatsby-starter
+# Nimbletank Gatsby Starter
 
 This is a basic starter package for
 [GatsbyJS](https://github.com/gatsbyjs/gatsby).
@@ -25,11 +25,14 @@ Currently this starter includes the following:
 
 ## How to use it?
 
-If you have 'gatsby' installed globally for more info check the [Gatsby Doc](https://www.gatsbyjs.org/docs/), just start a new project with:
+If you have 'gatsby' installed globally or check how to install [Gatsby](https://www.gatsbyjs.org/docs/) globally, and just start a new project with:
 
 ```
 gatsby new <project_name> https://github.com/nimbletank/nimbletank-gatsby-starter
 ```
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/nimbletank/nimbletank-gatsby-starter)
+
 
 ## To run the project
 
@@ -40,7 +43,7 @@ npm start
 ## To build the project
 
 ```
-npm build
+npm run build
 ```
 
 ## To test the project
